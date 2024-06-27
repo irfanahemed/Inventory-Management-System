@@ -20,7 +20,7 @@ The Inventory Management System is a Java-based application developed using NetB
 ### Setup
 1. **Clone the repository:**
     ```bash
-    git clone (https://github.com/harishy0406/Inventory-Management-System)
+    git clone https://github.com/harishy0406/Inventory-Management-System
     ```
 
 2. **Open the project in NetBeans:**
